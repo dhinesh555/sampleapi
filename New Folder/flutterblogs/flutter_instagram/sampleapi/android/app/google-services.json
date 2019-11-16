@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124188741389",
+    "firebase_url": "https://sampleapi-258713.firebaseio.com",
+    "project_id": "sampleapi-258713",
+    "storage_bucket": "sampleapi-258713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124188741389:android:bfe9ca9f3a2495ec79aa44",
+        "android_client_info": {
+          "package_name": "com.dinesh.sampleapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124188741389-dlf4brem0hogjs2knpor57voa4dsceah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6s0XJDHFYis38-ga6K_74vdgqBba95w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124188741389-dlf4brem0hogjs2knpor57voa4dsceah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
